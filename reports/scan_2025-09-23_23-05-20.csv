@@ -1,0 +1,4 @@
+host,hostname,protocol,port,state,name,product,version,extrainfo,cpe
+45.33.32.156,scanme.nmap.org,tcp,7,filtered,echo,,,,
+45.33.32.156,scanme.nmap.org,tcp,22,open,ssh,,,,
+45.33.32.156,scanme.nmap.org,tcp,80,open,http,,,,
